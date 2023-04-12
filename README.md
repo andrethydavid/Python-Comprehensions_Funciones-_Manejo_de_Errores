@@ -1,4 +1,8 @@
+
 # Python-Comprehensions_Funciones-_Manejo_de_Errores 🐍
+
+![image](https://user-images.githubusercontent.com/72534486/231327334-31772fca-d16d-4f5d-b209-fced448121b2.png)
+
 
 # The Zen of Python, by Tim Peters
 
@@ -21,4 +25,3 @@
 - If the implementation is easy to explain, it may be a good idea.
 - Namespaces are one honking great idea -- let's do more of those!
 
-![image](https://user-images.githubusercontent.com/72534486/231327266-70c310de-1db8-4af6-8743-37b8d06adf00.png)
