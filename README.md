@@ -20,3 +20,5 @@
 - If the implementation is hard to explain, it's a bad idea.
 - If the implementation is easy to explain, it may be a good idea.
 - Namespaces are one honking great idea -- let's do more of those!
+
+![image](https://user-images.githubusercontent.com/72534486/231327266-70c310de-1db8-4af6-8743-37b8d06adf00.png)
